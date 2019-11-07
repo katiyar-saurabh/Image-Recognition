@@ -1,7 +1,7 @@
 # Image-Recognition
 Detects face and eyes in an static image as well as real time video or cam.Second part is about detection of pedestrians and third is about detection of cars and final part is combination of pedestrian and cars detection.
 
-# Pre-requisites required (library)
+# Pre-requisites required (library/package)
 ```python
 OpenCV
 Haar cascade classifier
